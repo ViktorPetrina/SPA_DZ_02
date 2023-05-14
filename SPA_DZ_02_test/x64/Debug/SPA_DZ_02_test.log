@@ -1,0 +1,8 @@
+﻿  SPA_DZ_02_test.cpp
+  game_of_life.cpp
+C:\Users\Ryzen 5 1600\Desktop\All stuff\FAKS!\SEMSETAR 2\STRUKTURE PODATAKA I ALGORITMI\domace zadace\SPA_DZ_02\SPA_DZ_02_test\SPA_DZ_02_test\game_of_life.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ryzen 5 1600\Desktop\All stuff\FAKS!\SEMSETAR 2\STRUKTURE PODATAKA I ALGORITMI\domace zadace\SPA_DZ_02\SPA_DZ_02_test\SPA_DZ_02_test\game_of_life.cpp(131): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ryzen 5 1600\Desktop\All stuff\FAKS!\SEMSETAR 2\STRUKTURE PODATAKA I ALGORITMI\domace zadace\SPA_DZ_02\SPA_DZ_02_test\SPA_DZ_02_test\game_of_life.cpp(134): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ryzen 5 1600\Desktop\All stuff\FAKS!\SEMSETAR 2\STRUKTURE PODATAKA I ALGORITMI\domace zadace\SPA_DZ_02\SPA_DZ_02_test\SPA_DZ_02_test\game_of_life.cpp(137): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  SPA_DZ_02_test.vcxproj -> C:\Users\Ryzen 5 1600\Desktop\All stuff\FAKS!\SEMSETAR 2\STRUKTURE PODATAKA I ALGORITMI\domace zadace\SPA_DZ_02\SPA_DZ_02_test\x64\Debug\SPA_DZ_02_test.exe
